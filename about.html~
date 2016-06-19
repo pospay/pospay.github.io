@@ -33,14 +33,14 @@
 	<div class="col1 marRight">
 	<h1>Sub Menu</h1>
 	
-	<!--ul>
+	<ul>
 	<li><a href="#">Quo minus id, quod maxime placeat</a></li>
 	<li><a href="#">Debitis aut rerum necessitatibus saepe</a></li>
 	<li><a href="#">Voluptatibus maiores alias consequatur</a></li>
 	<li><a href="#">Sed quia consequuntur magni dolores</a></li>
 	<li><a href="#">Quod maxime placeat facere possimus</a></li>
 	<li class="bdrBottom"><a href="#">Itaque earum rerum hic teneturenime</a></li>
-	</ul-->
+	</ul>
 	</div>
 	<div class="col2">
 	<h1>About Us</h1>

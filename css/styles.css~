@@ -18,7 +18,7 @@ image{border:none;}
 .menu li a.active{color:#ffc103; background:url(../images/menu-h.gif);}
 
 
-.banner{width:960px; height:371px; background:url(../images/banner-img.png) no-repeat; margin:0 auto;}
+.banner{width:960px; height:371px; background:url(../images/banner-img.jpg) no-repeat; margin:0 auto;}
 .banner-content{width:500px; float:left; padding-top:140px;}
 .banner-content h2{font-size:26px; font-weight:normal; color:#22a8f0;}
 .banner-content h1{font-family: 'Playfair Display', serif; font-size:38px; font-weight:normal; color:#ffc103; padding-bottom:50px;}
