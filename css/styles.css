@@ -1,4 +1,4 @@
-*{margin:0; padding:0; font-family: 'Pontano Sans', sans-serif; font-size:14px; color:#959595;}
+*{margin:0; padding:0; font-family: 'Pontano Sans', sans-serif; font-size:14px; color:#959595;} /*font-family: "Roboto"; Pontano Sans*/
 a{text-decoration:none;}
 image{border:none;}
 .clearing{clear:both;}
@@ -17,11 +17,10 @@ image{border:none;}
 .menu li a:hover{font-size:16px; font-weight:normal; color:#ffc103; width:100px; height:40px; line-height:40px; text-align-center;  background:url(../images/menu-h.gif);}
 .menu li a.active{color:#ffc103; background:url(../images/menu-h.gif);}
 
-
-.banner{width:960px; height:371px; background:url(../images/banner-img.png) no-repeat; margin:0 auto;}
-.banner-content{width:500px; float:left; padding-top:140px;}
+.banner{width:1000px; height:371px; background:url(../images/banner-img.png) no-repeat; margin:0 auto;}
+.banner-content{width:400px; float:left; padding-top:140px;}
 .banner-content h2{font-size:26px; font-weight:normal; color:#22a8f0;}
-.banner-content h1{font-family: 'Playfair Display', serif; font-size:38px; font-weight:normal; color:#ffc103; padding-bottom:50px;}
+.banner-content h1{font-family: 'museo-rounded,Helvetica,Arial,sans-serif;', serif; font-size:31px; font-weight:normal; color:#ffc103; padding-bottom:50px;}
 .banner-content ul{list-style:none;}
 .banner-content li{text-align:left;}
 .banner-content li a{display:block; width:151px; height:39px; background:url(../images/btn-banner.gif) no-repeat; font-family: 'Playfair Display', serif; font-size:16px; font-weight:normal; color:#ffffff; text-align:center; line-height:38px; text-transform:uppercase; padding-left:10px;}
